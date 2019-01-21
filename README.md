@@ -22,7 +22,7 @@ Week 04 Assignment
 
 * Or imagine we run a restaurant in a crowded area with so many competitors around us. The rental cost, in this case, is inevitable high. We have to pay for all the expensive costs. Does the chance of getting customers from the same pool as our competitors worth?
 
-### 2. Data description:
+### 2. Data description
 
 * Multiple numpy arrays to hold the lists of Melbourne’s inner suburbs. This information will be used by Foursquare API to generate a dataframe that holds the suburb’s geographical data including postal code, latitude and longitude.
 
